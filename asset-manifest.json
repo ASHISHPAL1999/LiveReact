@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ASHISHPAL1999/LiveReact/static/css/main.1e22fcb5.chunk.css",
+    "main.js": "/ASHISHPAL1999/LiveReact/static/js/main.9590e93c.chunk.js",
+    "main.js.map": "/ASHISHPAL1999/LiveReact/static/js/main.9590e93c.chunk.js.map",
+    "runtime-main.js": "/ASHISHPAL1999/LiveReact/static/js/runtime-main.9881dbff.js",
+    "runtime-main.js.map": "/ASHISHPAL1999/LiveReact/static/js/runtime-main.9881dbff.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ASHISHPAL1999/LiveReact/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.30b435dc.chunk.js": "/ASHISHPAL1999/LiveReact/static/js/2.30b435dc.chunk.js",
+    "static/js/2.30b435dc.chunk.js.map": "/ASHISHPAL1999/LiveReact/static/js/2.30b435dc.chunk.js.map",
+    "static/js/3.b9f6990a.chunk.js": "/ASHISHPAL1999/LiveReact/static/js/3.b9f6990a.chunk.js",
+    "static/js/3.b9f6990a.chunk.js.map": "/ASHISHPAL1999/LiveReact/static/js/3.b9f6990a.chunk.js.map",
+    "index.html": "/ASHISHPAL1999/LiveReact/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ASHISHPAL1999/LiveReact/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.1e22fcb5.chunk.css.map": "/ASHISHPAL1999/LiveReact/static/css/main.1e22fcb5.chunk.css.map",
+    "static/js/2.30b435dc.chunk.js.LICENSE.txt": "/ASHISHPAL1999/LiveReact/static/js/2.30b435dc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ASHISHPAL1999/LiveReact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9881dbff.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.30b435dc.chunk.js",
+    "static/css/main.1e22fcb5.chunk.css",
+    "static/js/main.9590e93c.chunk.js"
+  ]
+}
